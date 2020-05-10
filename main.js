@@ -27,8 +27,8 @@ console.log(`/*
 var style = `
 /**
  * Hello, I guess you are here to meet me.
- * My name is Sarthak Jain. I am web developer. Oh, and also pusuing B.Tech
- * Degree in CSE. 
+ * My name is Sarthak Jain. I am a web developer. Oh, and also pusuing B.Tech
+ * Major in CSE. 
  *  
  * Well this is quite boring isn't it?, How about some live coding?    
 */
