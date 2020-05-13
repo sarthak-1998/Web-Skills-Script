@@ -2,7 +2,7 @@ A project on Web development skills.
 
 This is developed to showcase my projects with LIVE coding and animations.
 
-# visit - https://www.sarthakj.me/Web-Skills-Script/ 
+# Visit now at - https://www.sarthakj.me/Web-Skills-Script/ 
 
 ## Not Mobile Responsive
 
@@ -12,7 +12,7 @@ This is developed to showcase my projects with LIVE coding and animations.
    <a href="https://github.com/sarthak-1998/">
     <img src="https://img.shields.io/github/followers/sarthak-1998?label=Follow%20sarthak-1998&style=social"></img>
   </a>
-  
+
 
 
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=sarcastic_sark&tw_p=followbutton">
@@ -21,6 +21,10 @@ This is developed to showcase my projects with LIVE coding and animations.
               </a>
 </p >
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Credits for the Project 
 
